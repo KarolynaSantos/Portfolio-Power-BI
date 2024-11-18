@@ -2,9 +2,13 @@
 
 Este projeto utiliza as ferramentas de visualização e interação do Power BI para criar um dashboard de análise comercial, que visa fornecer uma visão ampla e detalhada sobre o desempenho de vendas da empresa. Abaixo, você encontrará informações sobre o objetivo do projeto, os principais indicadores, e a estrutura do dashboard.
 
-<iframe title="Projeto - A1 (1)" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiY2YxOGMwMTEtZjk5OC00M2MyLTgwNDUtNGQ1ZWM0MjA3NGZlIiwidCI6IjExZGJiZmUyLTg5YjgtNDU0OS1iZTEwLWNlYzM2NGU1OTU1MSIsImMiOjR9" frameborder="0" allowFullScreen="true"></iframe>
+<a href="https://app.powerbi.com/view?r=eyJrIjoiY2YxOGMwMTEtZjk5OC00M2MyLTgwNDUtNGQ1ZWM0MjA3NGZlIiwidCI6IjExZGJiZmUyLTg5YjgtNDU0OS1iZTEwLWNlYzM2NGU1OTU1MSIsImMiOjR9" target="_blank">
+    <img src="https://your-image-url.com" alt="Dashboard no Power BI" style="width:600px; border: 1px solid #ddd; border-radius: 4px;">
+</a>
 
-🚀 **Acesse o Dashboard**  
+
+
+### 🚀 **Acesse o Dashboard**  
 [https://example.com/dashboard](https://app.powerbi.com/view?r=eyJrIjoiY2YxOGMwMTEtZjk5OC00M2MyLTgwNDUtNGQ1ZWM0MjA3NGZlIiwidCI6IjExZGJiZmUyLTg5YjgtNDU0OS1iZTEwLWNlYzM2NGU1OTU1MSIsImMiOjR9)
 
 
