@@ -3,7 +3,7 @@
 Este projeto utiliza as ferramentas de visualização e interação do Power BI para criar um dashboard de análise comercial, que visa fornecer uma visão ampla e detalhada sobre o desempenho de vendas da empresa. Abaixo, você encontrará informações sobre o objetivo do projeto, os principais indicadores, e a estrutura do dashboard.
 
 <a href="https://app.powerbi.com/view?r=eyJrIjoiY2YxOGMwMTEtZjk5OC00M2MyLTgwNDUtNGQ1ZWM0MjA3NGZlIiwidCI6IjExZGJiZmUyLTg5YjgtNDU0OS1iZTEwLWNlYzM2NGU1OTU1MSIsImMiOjR9" target="_blank">
-    <img src="./image.png" alt="Dashboard no Power BI" style="width:600px; border: 1px solid #ddd; border-radius: 4px;">
+    <img src="./image.png" alt="Dashboard no Power BI" style="width:3000px; border: 1px solid #ddd; border-radius: 4px;">
 </a>
 
 
